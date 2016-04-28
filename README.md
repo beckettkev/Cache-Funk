@@ -4,9 +4,9 @@ Cache-Funk is a simple helper library for interacting with the web browser's loc
 
 ## Code Example
 ```javascript
-	imports { insert, add, delete } from cache-funk
+	imports { exists, fetch, insert, store, remove } from cache-funk
 
-	add('KeyName', ['data','data','data','data']);
+	store('KeyName', ['data','data','data','data']);
 ```
 ## Motivation
 
