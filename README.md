@@ -21,6 +21,7 @@ npm i cache-funk --save
 You will then need to install the dependencies:
 ```node
 npm i
+```
 
 ## Tests
 
