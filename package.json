@@ -1,0 +1,49 @@
+{
+  "name": "cache-funk",
+  "version": "0.1.0",
+  "description": "A local storage helper",
+  "author": "Kevin Beckett (http://sharepointcookies.com), @beckettkev",
+  "license": "MIT",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beckettkev/Cache-Funk.git"
+  },
+  "keywords": [
+    "JS",
+    "ES6",
+    "local",
+    "storage",
+    "web",
+    "JavaScript",
+    "Cache",
+    "Helper",
+    "Utility"
+  ],
+  "directories": {},
+  "dependencies": {
+    "babel-preset-es2015": "^6.1.4",
+    "babel-preset-react": "^6.1.4",
+    "babel-preset-stage-0": "^6.5.0"
+  },
+  "optionalDependencies": {},
+  "devDepndencies": {
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": [
+    "./index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/BeckettKev/cache-funk/issues"
+  },
+  "homepage": "https://github.com/BeckettKev/cache-funk"
+}

@@ -1,0 +1,9 @@
+{
+	"threshold": 30,
+	"indentifiers": true,
+	"matches": 2,
+	"ignore": "test.js|spec.js",
+	"jsx": true,
+	"reporter": "json",
+	"surpress": 100
+}
