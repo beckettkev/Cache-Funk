@@ -14,26 +14,13 @@ The aim of this project is to allow you to extend existing local storage cache e
 
 ## Installation
 
-Install webpack via npm (globally):
+When you have done that, install **cache-funk** by npm:
 ```node
-npm install webpack -g
-```
-When you have done that, install **Goldfish** by npm:
-```node
-npm install cache-funk --save
+npm i cache-funk --save
 ```
 You will then need to install the dependencies:
 ```node
-npm install
-```
-Then you can build for development:
-```node
-webpack --progress
-```
-Or for production:
-```node
-npm run build
-```
+npm i
 
 ## Tests
 
