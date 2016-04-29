@@ -36,9 +36,7 @@
   "files": [
     "index.js"
   ],
-  "main": [
-    "./index.js"
-  ],
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
