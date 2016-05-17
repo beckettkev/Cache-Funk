@@ -1,6 +1,6 @@
 {
   "name": "cache-funk",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "A local storage helper",
   "author": "Kevin Beckett (http://sharepointcookies.com), @beckettkev",
   "license": "MIT",
